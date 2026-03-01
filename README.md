@@ -4,14 +4,45 @@ This repo is for learning Python basics. I will continue updating this repositor
 
 ## 📚 Topics Covered
 
-- **Data Types** - Checking and understanding different data types (int, str, etc.)
+- **Data Types** - Basic type checking with `isinstance()`
+- **Arithmetic Operators** - `+`, `-`, `*`, `/`, `%`, `**`, `//`
+- **Bitwise Operators** - `&`, `|`, `^`, `~`, `<<`, `>>`
+- **Boolean Operators** - `not`, `and`, `or`
+- **Comparison Operators** - `==`, `!=`, `>`, `<=`
+- **Ternary Operator** - Inline conditional expression
 
 ## 🚀 Getting Started
 
 To run any script:
 
 ```bash
+python <folder>/<file>.py
+```
+
+Example:
+
+```bash
 python DataTypes/checking_data_types.py
+```
+
+## 🗂 Repository Structure
+
+```text
+FreeCodeCamp/
+├─ AirthmeticsOperators/
+│  └─ airth_operators.py
+├─ BitWiseOperators/
+│  └─ bit_operators.py
+├─ BooleanOperators/
+│  └─ bool_operators.py
+├─ ComparisonOperators/
+│  └─ comp_operators.py
+├─ DataTypes/
+│  └─ checking_data_types.py
+├─ Strings/
+├─ TernaryOperators/
+│  └─ ter_operators.py
+└─ README.md
 ```
 
 ## 📖 Resources
