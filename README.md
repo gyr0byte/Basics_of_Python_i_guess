@@ -13,6 +13,8 @@ This repo is for learning Python basics. I will continue updating this repositor
 - **Boolean Operators** - `not`, `and`, `or`
 - **Comparison Operators** - `==`, `!=`, `>`, `<=`
 - **Ternary Operator** - Inline conditional expression
+- **Lists** - Creating, updating, slicing, and list operations
+- **Sorting Lists** - `sorted()` and case-insensitive sorting with `key=str.lower`
 - **User Input** - `input()` function and type conversion
 - **Enums** - Working with enumerations
 
@@ -50,8 +52,12 @@ FreeCodeCamp/
 │  └─ checking_data_types.py
 ├─ Enums/
 │  └─ enumms.py
+├─ Lists/
+│  └─ lists.py
 ├─ NumberDataTypes/
 │  └─ complexnum.py
+├─ SortingList/
+│  └─ sortinglist.py
 ├─ Strings/
 │  ├─ concat.py
 │  ├─ global_functions.py
