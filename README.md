@@ -16,6 +16,7 @@ This repo is for learning Python basics. I will continue updating this repositor
 - **Lists** - Creating, updating, slicing, and list operations
 - **Sorting Lists** - `sorted()` and case-insensitive sorting with `key=str.lower`
 - **Tuples** - Immutable sequences with indexing, slicing, and concatenation
+- **Dictionaries** - Key-value pairs with access, modification, and dictionary methods
 - **User Input** - `input()` function and type conversion
 - **Enums** - Working with enumerations
 
@@ -51,6 +52,8 @@ FreeCodeCamp/
 │  └─ controlstatement.py
 ├─ DataTypes/
 │  └─ checking_data_types.py
+├─ Dictionaries/
+│  └─ dictionary.py
 ├─ Enums/
 │  └─ enumms.py
 ├─ Lists/
@@ -63,17 +66,10 @@ FreeCodeCamp/
 │  ├─ concat.py
 │  ├─ global_functions.py
 │  └─ StringMethods.py
+├─ TernaryOperators/
+│  └─ ter_operators.py
 ├─ Tuples/
 │  └─ tuples.py
-├─ TernaryOperators/
-│  └─ ter_operators.py
-├─ UserInput/
-│  └─ userinput.py
-│  ├─ concat.py
-│  ├─ global_functions.py
-│  └─ StringMethods.py
-├─ TernaryOperators/
-│  └─ ter_operators.py
 ├─ UserInput/
 │  └─ userinput.py
 └─ README.md
