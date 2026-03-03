@@ -15,6 +15,7 @@ This repo is for learning Python basics. I will continue updating this repositor
 - **Ternary Operator** - Inline conditional expression
 - **Lists** - Creating, updating, slicing, and list operations
 - **Sorting Lists** - `sorted()` and case-insensitive sorting with `key=str.lower`
+- **Tuples** - Immutable sequences with indexing, slicing, and concatenation
 - **User Input** - `input()` function and type conversion
 - **Enums** - Working with enumerations
 
@@ -59,6 +60,15 @@ FreeCodeCamp/
 ├─ SortingList/
 │  └─ sortinglist.py
 ├─ Strings/
+│  ├─ concat.py
+│  ├─ global_functions.py
+│  └─ StringMethods.py
+├─ Tuples/
+│  └─ tuples.py
+├─ TernaryOperators/
+│  └─ ter_operators.py
+├─ UserInput/
+│  └─ userinput.py
 │  ├─ concat.py
 │  ├─ global_functions.py
 │  └─ StringMethods.py
