@@ -5,3 +5,6 @@ print(intersect)
 print()
 union = anime1 | anime2
 print(union)
+print()
+diff = anime1 - anime2
+print(diff)
