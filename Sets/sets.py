@@ -7,4 +7,6 @@ union = anime1 | anime2
 print(union)
 print()
 diff = anime1 - anime2
+diff2 = anime2 - anime1
 print(diff)
+print(diff2)
