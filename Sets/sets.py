@@ -10,3 +10,8 @@ diff = anime1 - anime2
 diff2 = anime2 - anime1
 print(diff)
 print(diff2)
+print()
+superset = anime1 > anime2
+subset = anime1 < anime2
+print(superset)
+print(subset)
