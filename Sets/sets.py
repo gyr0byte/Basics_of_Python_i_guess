@@ -15,3 +15,5 @@ superset = anime1 > anime2
 subset = anime1 < anime2
 print(superset)
 print(subset)
+print(list(anime1))
+print("Naruto" in anime1)
