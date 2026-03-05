@@ -1,5 +1,6 @@
-def hello(name):
-    print(f"Hello {name}")
+def hello(name, age):
+    print(f"Hello {name}, You are {age} years old.")
 
-hello("Gaurav")
-hello("Sirjan")
+
+hello("Gaurav", 19)
+hello("Sirjan", 19)
