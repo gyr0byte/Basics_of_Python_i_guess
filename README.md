@@ -17,6 +17,8 @@ This repo is for learning Python basics. I will continue updating this repositor
 - **Sorting Lists** - `sorted()` and case-insensitive sorting with `key=str.lower`
 - **Tuples** - Immutable sequences with indexing, slicing, and concatenation
 - **Dictionaries** - Key-value pairs with access, modification, and dictionary methods
+- **Sets** - Unordered collections with operations like intersection, union, and difference
+- **Functions** - Defining and calling functions with parameters
 - **User Input** - `input()` function and type conversion
 - **Enums** - Working with enumerations
 
@@ -56,10 +58,15 @@ FreeCodeCamp/
 │  └─ dictionary.py
 ├─ Enums/
 │  └─ enumms.py
+├─ Functions/
+│  ├─ functions.py
+│  └─ returns.py
 ├─ Lists/
 │  └─ lists.py
 ├─ NumberDataTypes/
 │  └─ complexnum.py
+├─ Sets/
+│  └─ sets.py
 ├─ SortingList/
 │  └─ sortinglist.py
 ├─ Strings/
