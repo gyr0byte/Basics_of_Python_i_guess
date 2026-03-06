@@ -1,5 +1,10 @@
 # Python Basics Learning Repository
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Learning-Python%20Basics-brightgreen?style=for-the-badge)
+![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
+
 This repo is for learning Python basics. I will continue updating this repository until I cover all the fundamentals.
 
 ## 📚 Topics Covered
