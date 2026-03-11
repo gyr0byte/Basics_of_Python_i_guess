@@ -9,22 +9,47 @@ This repo is for learning Python basics. I will continue updating this repositor
 
 ## 📚 Topics Covered
 
+### Data Types & Basics
+
 - **Data Types** - Basic type checking with `isinstance()`
 - **Number Data Types** - Complex numbers, `abs()`, `round()`
 - **Booleans** - Boolean types, `any()`, `all()`, conditional statements
 - **Strings** - Concatenation, slicing, string methods, formatting
+- **User Input** - `input()` function and type conversion
+
+### Operators
+
 - **Arithmetic Operators** - `+`, `-`, `*`, `/`, `%`, `**`, `//`
 - **Bitwise Operators** - `&`, `|`, `^`, `~`, `<<`, `>>`
 - **Boolean Operators** - `not`, `and`, `or`
 - **Comparison Operators** - `==`, `!=`, `>`, `<=`
 - **Ternary Operator** - Inline conditional expression
+
+### Collections
+
 - **Lists** - Creating, updating, slicing, and list operations
-- **Sorting Lists** - `sorted()` and case-insensitive sorting with `key=str.lower`
 - **Tuples** - Immutable sequences with indexing, slicing, and concatenation
-- **Dictionaries** - Key-value pairs with access, modification, and dictionary methods
 - **Sets** - Unordered collections with operations like intersection, union, and difference
+- **Dictionaries** - Key-value pairs with access, modification, and dictionary methods
+- **Sorting Lists** - `sorted()` and case-insensitive sorting with `key=str.lower`
+
+### Control Flow
+
+- **Loops** - `for` loops, `while` loops, `enumerate()`, `range()`
+- **Break & Continue** - Loop control with `break` and `continue` statements
+- **Control Statements** - Conditional logic and flow control
+
+### Functions
+
 - **Functions** - Defining and calling functions with parameters
-- **User Input** - `input()` function and type conversion
+- **Nested Functions** - Functions defined within functions
+- **Closures** - Functions with access to outer function variables
+
+### Advanced Topics
+
+- **Classes** - Object-oriented programming basics
+- **Objects** - Classes and object instantiation
+- **Variable Scope** - Global, local, and nonlocal scopes
 - **Enums** - Working with enumerations
 
 ## 🚀 Getting Started
@@ -53,6 +78,12 @@ FreeCodeCamp/
 │  └─ bool_operators.py
 ├─ Booleans/
 │  └─ boolean.py
+├─ BreakAndContinue/
+│  └─ break_continue.py
+├─ Classs/
+│  └─ classs.py
+├─ Closures/
+│  └─ closures.py
 ├─ ComparisonOperators/
 │  └─ comp_operators.py
 ├─ ControlStatement/
@@ -68,8 +99,16 @@ FreeCodeCamp/
 │  └─ returns.py
 ├─ Lists/
 │  └─ lists.py
+├─ Loops/
+│  ├─ forloop.py
+│  └─ whileloop.py
+├─ NestedFunction/
+│  ├─ nested_function.py
+│  └─ nested_function2.py
 ├─ NumberDataTypes/
 │  └─ complexnum.py
+├─ Objects/
+│  └─ classsandobejcts.py
 ├─ Sets/
 │  └─ sets.py
 ├─ SortingList/
@@ -84,6 +123,8 @@ FreeCodeCamp/
 │  └─ tuples.py
 ├─ UserInput/
 │  └─ userinput.py
+├─ VarialbleScope/
+│  └─ vs.py
 └─ README.md
 ```
 
