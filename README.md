@@ -44,6 +44,7 @@ This repo is for learning Python basics. I will continue updating this repositor
 - **Functions** - Defining and calling functions with parameters
 - **Nested Functions** - Functions defined within functions
 - **Closures** - Functions with access to outer function variables
+- **Modules** - Importing local modules and package files
 
 ### Advanced Topics
 
@@ -70,6 +71,7 @@ python DataTypes/checking_data_types.py
 
 ```text
 FreeCodeCamp/
+├─ .gitignore
 ├─ AirthmeticsOperators/
 │  └─ airth_operators.py
 ├─ BitWiseOperators/
@@ -102,6 +104,12 @@ FreeCodeCamp/
 ├─ Loops/
 │  ├─ forloop.py
 │  └─ whileloop.py
+├─ Moduless/
+│  ├─ dog.py
+│  ├─ main.py
+│  └─ lib/
+│     ├─ __init__.py
+│     └─ cat.py
 ├─ NestedFunction/
 │  ├─ nested_function.py
 │  └─ nested_function2.py
