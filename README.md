@@ -45,6 +45,7 @@ This repo is for learning Python basics. I will continue updating this repositor
 - **Nested Functions** - Functions defined within functions
 - **Closures** - Functions with access to outer function variables
 - **Modules** - Importing local modules and package files
+- **Command Line Arguments** - Using `sys.argv` and `argparse` from terminal
 
 ### Advanced Topics
 
@@ -74,6 +75,9 @@ FreeCodeCamp/
 ├─ .gitignore
 ├─ AirthmeticsOperators/
 │  └─ airth_operators.py
+├─ ArgumentsFromCmd/
+│  ├─ ARGS.PY
+│  └─ argsparse_example.py
 ├─ BitWiseOperators/
 │  └─ bit_operators.py
 ├─ BooleanOperators/
