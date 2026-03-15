@@ -44,7 +44,9 @@ This repo is for learning Python basics. I will continue updating this repositor
 - **Functions** - Defining and calling functions with parameters
 - **Nested Functions** - Functions defined within functions
 - **Closures** - Functions with access to outer function variables
+- **Lambda Functions** - Anonymous functions for short expressions
 - **Modules** - Importing local modules and package files
+- **Map, Filter, Reduce** - Functional-style transformations and aggregation
 - **Command Line Arguments** - Using `sys.argv` and `argparse` from terminal
 
 ### Advanced Topics
@@ -103,11 +105,17 @@ FreeCodeCamp/
 ├─ Functions/
 │  ├─ functions.py
 │  └─ returns.py
+├─ LambdaFunction/
+│  └─ lambdaa.py
 ├─ Lists/
 │  └─ lists.py
 ├─ Loops/
 │  ├─ forloop.py
 │  └─ whileloop.py
+├─ map,filter,reduce/
+│  ├─ filter.py
+│  ├─ map.py
+│  └─ reducee.py
 ├─ Moduless/
 │  ├─ dog.py
 │  ├─ main.py
