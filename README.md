@@ -45,9 +45,11 @@ This repo is for learning Python basics. I will continue updating this repositor
 - **Nested Functions** - Functions defined within functions
 - **Closures** - Functions with access to outer function variables
 - **Lambda Functions** - Anonymous functions for short expressions
+- **Recursion** - Functions that call themselves, such as factorial examples
 - **Modules** - Importing local modules and package files
 - **Map, Filter, Reduce** - Functional-style transformations and aggregation
 - **Command Line Arguments** - Using `sys.argv` and `argparse` from terminal
+- **Decorators** - Wrapping functions to extend behavior before and after execution
 
 ### Advanced Topics
 
@@ -55,6 +57,7 @@ This repo is for learning Python basics. I will continue updating this repositor
 - **Objects** - Classes and object instantiation
 - **Variable Scope** - Global, local, and nonlocal scopes
 - **Enums** - Working with enumerations
+- **DocStrings** - Documenting modules, functions, classes, and methods
 
 ## 🚀 Getting Started
 
@@ -98,8 +101,12 @@ FreeCodeCamp/
 │  └─ controlstatement.py
 ├─ DataTypes/
 │  └─ checking_data_types.py
+├─ Decorators/
+│  └─ decorators.py
 ├─ Dictionaries/
 │  └─ dictionary.py
+├─ DocStrings/
+│  └─ dstring.py
 ├─ Enums/
 │  └─ enumms.py
 ├─ Functions/
@@ -129,6 +136,8 @@ FreeCodeCamp/
 │  └─ complexnum.py
 ├─ Objects/
 │  └─ classsandobejcts.py
+├─ Recursion/
+│  └─ recursionn.py
 ├─ Sets/
 │  └─ sets.py
 ├─ SortingList/
