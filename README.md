@@ -28,6 +28,7 @@ This repo is for learning Python basics. I will continue updating this repositor
 ### Collections
 
 - **Lists** - Creating, updating, slicing, and list operations
+- **List Comprehension** - Compact list creation using expression-based loops
 - **Tuples** - Immutable sequences with indexing, slicing, and concatenation
 - **Sets** - Unordered collections with operations like intersection, union, and difference
 - **Dictionaries** - Key-value pairs with access, modification, and dictionary methods
@@ -55,9 +56,12 @@ This repo is for learning Python basics. I will continue updating this repositor
 
 - **Classes** - Object-oriented programming basics
 - **Objects** - Classes and object instantiation
+- **Polymorphism** - Same method name behaving differently across classes
 - **Variable Scope** - Global, local, and nonlocal scopes
+- **Type Annotations** - Declaring expected variable and function types
 - **Enums** - Working with enumerations
 - **DocStrings** - Documenting modules, functions, classes, and methods
+- **Exception Handling** - `try`, `except`, `finally`, and `with` for safer code
 
 ## 🚀 Getting Started
 
@@ -80,6 +84,8 @@ FreeCodeCamp/
 ├─ .gitignore
 ├─ AirthmeticsOperators/
 │  └─ airth_operators.py
+├─ Annotations/
+│  └─ annotationss.py
 ├─ ArgumentsFromCmd/
 │  ├─ ARGS.PY
 │  └─ argsparse_example.py
@@ -109,11 +115,17 @@ FreeCodeCamp/
 │  └─ dstring.py
 ├─ Enums/
 │  └─ enumms.py
+├─ ExceptionHandling/
+│  ├─ exceptions.py
+│  ├─ test.txt
+│  └─ withkeyword.py
 ├─ Functions/
 │  ├─ functions.py
 │  └─ returns.py
 ├─ LambdaFunction/
 │  └─ lambdaa.py
+├─ ListCompression/
+│  └─ listscomp.py
 ├─ Lists/
 │  └─ lists.py
 ├─ Loops/
@@ -136,6 +148,8 @@ FreeCodeCamp/
 │  └─ complexnum.py
 ├─ Objects/
 │  └─ classsandobejcts.py
+├─ Polymorphism/
+│  └─ poly.py
 ├─ Recursion/
 │  └─ recursionn.py
 ├─ Sets/
