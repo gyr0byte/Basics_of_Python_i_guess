@@ -56,6 +56,7 @@ This repo is for learning Python basics. I will continue updating this repositor
 
 - **Classes** - Object-oriented programming basics
 - **Objects** - Classes and object instantiation
+- **Operator Overloading** - Custom behavior for operators using special methods like `__gt__`
 - **Polymorphism** - Same method name behaving differently across classes
 - **Variable Scope** - Global, local, and nonlocal scopes
 - **Type Annotations** - Declaring expected variable and function types
@@ -148,6 +149,8 @@ FreeCodeCamp/
 │  └─ complexnum.py
 ├─ Objects/
 │  └─ classsandobejcts.py
+├─ OperatorOverLoading/
+│  └─ operators.py
 ├─ Polymorphism/
 │  └─ poly.py
 ├─ Recursion/
