@@ -37,6 +37,7 @@ This repo is for learning Python basics. I will continue updating this repositor
 ### Control Flow
 
 - **Loops** - `for` loops, `while` loops, `enumerate()`, `range()`
+- **Enumerate** - Iterating with index-value pairs using `enumerate()`
 - **Break & Continue** - Loop control with `break` and `continue` statements
 - **Control Statements** - Conditional logic and flow control
 
@@ -63,6 +64,7 @@ This repo is for learning Python basics. I will continue updating this repositor
 - **Enums** - Working with enumerations
 - **DocStrings** - Documenting modules, functions, classes, and methods
 - **Exception Handling** - `try`, `except`, `finally`, and `with` for safer code
+- **OS Module** - Working with file system paths, metadata, and directory traversal
 
 ## 🚀 Getting Started
 
@@ -114,6 +116,8 @@ FreeCodeCamp/
 │  └─ dictionary.py
 ├─ DocStrings/
 │  └─ dstring.py
+├─ Enumerate/
+│  └─ enumerates.py
 ├─ Enums/
 │  └─ enumms.py
 ├─ ExceptionHandling/
@@ -151,6 +155,8 @@ FreeCodeCamp/
 │  └─ classsandobejcts.py
 ├─ OperatorOverLoading/
 │  └─ operators.py
+├─ os_module/
+│  └─ os_module.py
 ├─ Polymorphism/
 │  └─ poly.py
 ├─ Recursion/
