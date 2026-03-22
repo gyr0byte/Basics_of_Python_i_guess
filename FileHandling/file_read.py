@@ -8,8 +8,10 @@ with open(filename, 'r') as f:
     # print(content)
     # for line in f:
     #     print(line, end = "") # this is efficient and memory usuage is low
-    size_to_read = 100
+    size_to_read = 10
     f_contents = f.read(size_to_read)
     while len(f_contents) > 0:
         print(f_contents, end = "")
         f_contents = f.read(size_to_read)
+        
+    # f.seek(0) # to change the beginning of the file
