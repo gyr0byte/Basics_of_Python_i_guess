@@ -65,6 +65,9 @@ This repo is for learning Python basics. I will continue updating this repositor
 - **DocStrings** - Documenting modules, functions, classes, and methods
 - **Exception Handling** - `try`, `except`, `finally`, and `with` for safer code
 - **OS Module** - Working with file system paths, metadata, and directory traversal
+- **File Handling** - Reading, writing, and copying text files
+- **CSV Module** - Parsing and writing CSV data files
+- **Image Copying** - Copying binary/image files safely
 
 ## 🚀 Getting Started
 
@@ -108,6 +111,10 @@ FreeCodeCamp/
 │  └─ comp_operators.py
 ├─ ControlStatement/
 │  └─ controlstatement.py
+├─ CSV_Module/
+│  ├─ names.csv
+│  ├─ new_names.csv
+│  └─ parse_csv.py
 ├─ DataTypes/
 │  └─ checking_data_types.py
 ├─ Decorators/
@@ -124,9 +131,19 @@ FreeCodeCamp/
 │  ├─ exceptions.py
 │  ├─ test.txt
 │  └─ withkeyword.py
+├─ FileHandling/
+│  ├─ file_read.py
+│  ├─ file_write.py
+│  ├─ test.txt
+│  ├─ test2.txt
+│  └─ test2_copy.txt
 ├─ Functions/
 │  ├─ functions.py
 │  └─ returns.py
+├─ ImageCopying/
+│  ├─ cat.png
+│  ├─ cat_copy.png
+│  └─ image.py
 ├─ LambdaFunction/
 │  └─ lambdaa.py
 ├─ ListCompression/
