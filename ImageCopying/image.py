@@ -1,6 +1,6 @@
-filename = "ImageCopying/test2.txt"
+filename = "ImageCopying/cat.png"
 
-with open(filename, 'r') as rf:
-   with open("FileHandling/test2_copy.txt", "w") as wf:
+with open(filename, 'rb') as rf:
+   with open("ImageCopying/cat_copy.png", "wb") as wf:
        for line in rf:
            wf.write(line)
