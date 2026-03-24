@@ -47,6 +47,7 @@ This repo is for learning Python basics. I will continue updating this repositor
 - **Nested Functions** - Functions defined within functions
 - **Closures** - Functions with access to outer function variables
 - **Lambda Functions** - Anonymous functions for short expressions
+- **Generators** - Memory-efficient iteration using `yield` and generator expressions
 - **Recursion** - Functions that call themselves, such as factorial examples
 - **Modules** - Importing local modules and package files
 - **Map, Filter, Reduce** - Functional-style transformations and aggregation
@@ -142,6 +143,8 @@ FreeCodeCamp/
 │  ├─ functions.py
 │  ├─ more_advanced.py
 │  └─ returns.py
+├─ Generators/
+│  └─ generators.py
 ├─ ImageCopying/
 │  ├─ cat.png
 │  ├─ cat_copy.png
