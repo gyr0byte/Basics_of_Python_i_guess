@@ -114,7 +114,8 @@ FreeCodeCamp/
 ├─ CSV_Module/
 │  ├─ names.csv
 │  ├─ new_names.csv
-│  └─ parse_csv.py
+│  ├─ parse_csv.py
+│  └─ parse_csv_using_dictreader.py
 ├─ DataTypes/
 │  └─ checking_data_types.py
 ├─ Decorators/
@@ -139,6 +140,7 @@ FreeCodeCamp/
 │  └─ test2_copy.txt
 ├─ Functions/
 │  ├─ functions.py
+│  ├─ more_advanced.py
 │  └─ returns.py
 ├─ ImageCopying/
 │  ├─ cat.png
@@ -159,10 +161,14 @@ FreeCodeCamp/
 │  └─ reducee.py
 ├─ Moduless/
 │  ├─ dog.py
+│  ├─ intro.py
+│  ├─ math.py
 │  ├─ main.py
+│  ├─ randommodule.py
 │  └─ lib/
 │     ├─ __init__.py
-│     └─ cat.py
+│     ├─ cat.py
+│     └─ my_modules.py
 ├─ NestedFunction/
 │  ├─ nested_function.py
 │  └─ nested_function2.py
