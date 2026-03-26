@@ -4,6 +4,6 @@ counter = itertools.count() # to make counter start from 5 do .count(start=5) to
 
 data = [100, 200, 300, 400, 500]
 
-daily_data = list(zip(itertools.count(), data))
+daily_data = list(itertools.zip_longest(range(10), data))
 
 print(daily_data)
